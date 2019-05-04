@@ -18,11 +18,15 @@ class TimelineViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         configCollectionView()
+        NotificationCenter.default.addObserver(self, selector: #selector(didLikePost(_:)), name: .didLikePost, object: nil)
         client.show { [weak self] data in
             self?.posts = data
         }
     }
 
+    @objc func didLikePost(_ notification: NSNotification){
+        print("12345")
+    }
     /*
     // MARK: - Navigation
 

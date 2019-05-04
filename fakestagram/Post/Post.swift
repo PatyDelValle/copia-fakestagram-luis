@@ -14,10 +14,17 @@ struct Post: Codable {
     let title: String
     let imageUrl: String?
     let author: Author?
-    let likesCount: Int
+    var likesCount: Int
     let commentsCount: Int
     let createdAt: String
 
+    var liked:Bool
+    
+    mutating func swapLiked() -> Bool {
+        self.liked = !self.liked
+        return self.liked
+    }
+    
     func load(_ image: @escaping (UIImage) -> Void) {
         let cache = ImageCache(filename: "image-\(self.id!).jpg")
         if let img = cache.load() {

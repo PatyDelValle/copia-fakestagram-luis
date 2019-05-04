@@ -1,0 +1,391 @@
+    1  git
+    2  cd Desktop/
+    3  ls -l
+    4  cd seman8
+    5  cd semana8
+    6  pod init
+    7  ls -l
+    8  pwd
+    9  pod init
+   10  cd
+   11  pwd
+   12  pod init
+   13  cd Desktop/
+   14  cd semana8
+   15  ls -l
+   16  cd semana8Autolayout
+   17  pwd
+   18  pod init
+   19  ls -l
+   20  cat Podfile 
+   21  ls -l
+   22  ls -la
+   23  more Podfile 
+   24  vi Podfile 
+   25  clear
+   26  ls -la
+   27  pod install
+   28  git
+   29  git config --global user.name 'Patricia'
+   30  git config --global username
+   31  git config --global user.name
+   32  ls -l
+   33  cd Desktop/
+   34  ls -l
+   35  cd AutoLayer\ PageController\(caritas\)/
+   36  ls -l
+   37  cd AutoLayoutAdvanced\ PageController\(Emiliano\)/
+   38  ls -l
+   39  cd  AutoLayoutAdvanced
+   40  ls -l
+   41  cd ..
+   42  git remote add origin https://github.com/PatyDelValle/ejemplo1.git
+   43  git push -u origin master
+   44  git remote add origin https://github.com/PatyDelValle/ejemplo1.git
+   45  git init
+   46  git push -u origin master
+   47  git init
+   48  git remote add origin https://github.com/PatyDelValle/ejemplo1.git
+   49  git push -u origin master
+   50  ls -l
+   51  cd ..
+   52  ls -l
+   53  cd AutoLayoutAdvanced\ profesor
+   54  ls -l
+   55  cd AutoLayoutAdvanced\ PageController\(Emiliano\)/
+   56  ls -l
+   57  cd /Users/patricia/Desktop/miInstagram
+   58  ls
+   59  git init
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit -m "first commit"
+   64  git remote add origin https://github.com/PatyDelValle/Fakestagram.git
+   65  git push -u origin master
+   66  clear
+   67  cd /Users/patricia/Desktop/carpeta\ sin\ título 
+   68  git clone https://github.com/PatyDelValle/Fakestagram.git
+   69  git checkout -b "ui-profile"
+   70  ls
+   71  cd Fakestagram/
+   72  git log
+   73  git checkout -b "ui-profile"
+   74  git branch
+   75  exit
+   76  cd /Users/patricia/Desktop/prueba2 
+   77  ls
+   78  git clone https://github.com/PatyDelValle/ejemplo1.git
+   79  clear
+   80  ls -l
+   81  cd 
+   82  ls -l
+   83  cd Desktop/
+   84  ls -l
+   85  cd semana6animacionNuvesLogin/
+   86  ls -l
+   87  git ini
+   88  clear
+   89  ls -l
+   90  git init
+   91  git remote add origin https://github.com/PatyDelValle/Tarea1.git
+   92  git status
+   93  git commit -m "first commit"
+   94  git status
+   95  git add .
+   96  git status
+   97  git commit -m "first commit"
+   98  git remote add origin https://github.com/PatyDelValle/Tarea1.git
+   99  git push -u origin master
+  100  pwd
+  101  cd 
+  102  ls -l
+  103  cd Desktop/
+  104  cd instagram/
+  105  ls -l
+  106  git init
+  107  git cd ..
+  108  ls -l
+  109  cd ..
+  110  ls -l
+  111  mv instagram Facestagram
+  112  cd Facestagram/
+  113  git init
+  114  git status
+  115  git commit -m "first commit"
+  116  git remote add origin https://github.com/PatyDelValle/Fakestagram.git
+  117  git status
+  118  git push -u origin master
+  119  ls -l
+  120  cd Desktop/
+  121  ls -l
+  122  git clone https://github.com/PatyDelValle/fakestagram-ios.git
+  123  ls -l
+  124  clear
+  125  ls -l
+  126  kdir el bueno
+  127  mkdir FC
+  128  ls -l
+  129  mkdir FC
+  130  cd FC/
+  131  ls -l
+  132  git clone https://github.com/PatyDelValle/fakestagram-ios.git
+  133  ls -l
+  134  cd ..
+  135  ls -l
+  136  ls -l
+  137  pwd
+  138  mkdir mi copia instagramIO
+  139  cd mi/*
+  140  cd mi*
+  141  pwd
+  142  mkdir MIInstagram
+  143  cd MIInstagram/
+  144  git clone https://github.com/PatyDelValle/fakestagram-ios.git
+  145  pwd
+  146  git remote -v
+  147  git remote -v
+  148  git remote -v
+  149  pwd
+  150  cd Desktop/
+  151  cd mi
+  152  ls -l
+  153  cd MIInstagram/
+  154  ls -l
+  155  git remote -v
+  156  ls
+  157  cd fakestagram-ios/
+  158  git remote -v
+  159  git remote -v
+  160  git remote add upstream https://github.com/iOSLabUNAM/fakestagram-ios.git
+  161  git remote -v
+  162  git fetch upstream 
+  163  git merge upstream/master
+  164  git status
+  165  git push origin master
+  166  ssh-keygen -t rsa -b 4096 -C "paty.del.valle@hotmail.com"
+  167  ls -la
+  168  ls .ssh
+  169  cd .ssh
+  170  ls 
+  171  ls -
+  172  .ssh
+  173  ls .ssh
+  174  ls -l
+  175  ls .la
+  176  ls -la
+  177  cd
+  178  ls -l
+  179  ls lart
+  180  ls -lart
+  181  cd .ssh/
+  182  ls
+  183  cat id_rsa.pub 
+  184  cd 
+  185  cd mi
+  186  pwd
+  187  ls -l
+  188  cd Desktop/
+  189  cd mi
+  190  cd MIInstagram/
+  191  ls -l
+  192  git remote -v
+  193  ls -l
+  194  cd fakestagram-ios/
+  195  git remote -v
+  196  git chekout -b tabBarIcons
+  197  git ststus
+  198  git status
+  199  pwd
+  200  cd fakestagram
+  201  git status
+  202  git status
+  203  git remote -v
+  204  git fetch upstream
+  205  pwd
+  206  git remote -v
+  207  git fetch upstream
+  208  git merge upstream/master
+  209  git push origin master
+  210  git status
+  211  git remote -v
+  212  git fetch upstream
+  213  git merge upstream/master
+  214  git push origin master
+  215  git remote -v
+  216  git fetch upstream
+  217  git merge upstream/master
+  218  git push origin master
+  219  pwd
+  220  git fetch upstream
+  221  git log
+  222  git status
+  223  cd ..
+  224  git stash
+  225  git fetch upstream
+  226  git merge upstream/master
+  227  git logç
+  228  git log
+  229  git stash pop
+  230  open fakestagram.xcodeproj/
+  231  git checkout -b paty
+  232  git status
+  233  git branch
+  234  git commit -am "PostAuthorView layout and SVGView missing constrains"
+  235  git status
+  236  git push origin HEAD
+  237  cd
+  238  cd Desktop/
+  239  git clone https://github.com/3zcurdia/fakestagram-ios.git
+  240  cd fakestagram-ios/
+  241  git pull
+  242  cd Desktop/
+  243  ls -l
+  244  mkdir InstagramDesarrollo
+  245  cd InstagramDesarrollo/
+  246  git ini
+  247  git init
+  248  git clone https://github.com/PatyDelValle/fakestagram-ios.git
+  249  git branch
+  250  ls -l
+  251  cd fakestagram-ios/
+  252  ls -l
+  253  git branch
+  254  git branch -all
+  255  git branch -ALL
+  256  git branch --All
+  257  git branch
+  258  git checkout paty_Account
+  259  git branch 
+  260  ls -l
+  261  open fakestagram.xcodeproj/
+  262  cd ..
+  263  pwd
+  264  cd
+  265  pwd
+  266  cd Desktop/
+  267  ls -l
+  268  cd mi
+  269  ls -l
+  270  cd MIInstagram/
+  271  ls -l
+  272  cd fakestagram-ios/
+  273  ls -l
+  274  clear
+  275  irb
+  276  clear
+  277  ls -l
+  278  cd ..
+  279  pwd
+  280  cd ..
+  281  cd..
+  282  cd ..
+  283  pwd
+  284  ls -l
+  285  cd InstagramDesarrollo/
+  286  ls -l
+  287  cd fakestagram-ios/
+  288  ls -l
+  289  git status
+  290  gid add .
+  291  git commit -m "UsersDefault uuid"
+  292  git branch
+  293  git diff
+  294  git status
+  295  git add .
+  296  git status
+  297  git commit -m "UsersDefault uuid"
+  298  git status
+  299  git push origin
+  300  exit
+  301  ls -l
+  302  cd Desktop/
+  303  ls -l
+  304  cd InstagramDesarrollo/
+  305  ls -l
+  306  cd fakestagram-ios/
+  307  ls -l
+  308  git status
+  309  git add .
+  310  git status
+  311  git commit -m "Autolayout fixes on cell, timeline and collectionView"
+  312  git status
+  313  git branch
+  314  git push origin
+  315  exit
+  316  cd Desktop/
+  317  ls -l
+  318  mkdir LuisInstagram
+  319  cd LuisInstagram/
+  320  ls -l
+  321  git init
+  322  git clone https://github.com/3zcurdia/fakestagram-ios.git
+  323  cd fakestagram-ios/
+  324  ls -l
+  325  git status
+  326  git branch luis-ezcurdia
+  327  git status
+  328  ls -l
+  329  gist status
+  330  git status
+  331  git branch --all
+  332  git checkout luis-ezcurdia
+  333  git status
+  334  git branch
+  335  ls -l
+  336  cd ..
+  337  ls -l
+  338  cd ..
+  339  ls -l
+  340  rmdir LuisInstagram/
+  341  mkdir LuisInstagram
+  342  cd LuisInstagram/
+  343  git init
+  344  git clone https://github.com/3zcurdia/fakestagram-ios.git
+  345  ld -l
+  346  ls -l
+  347  cd fakestagram-ios/
+  348  ls -l
+  349  git branch
+  350  git pull origin luis-ezcurdia
+  351  git checkout luis-ezcurdia
+  352  git branch
+  353  open fakestagram.xcodeproj/
+  354  ls -l
+  355  cd Desktop/
+  356  ls -l
+  357  mk dir LuisInstagramPersistencia
+  358  ls -l
+  359  cd ..
+  360  ls -l
+  361  cd Desktop/
+  362  ls -l
+  363  mkdir LuisInstagramPersistencia
+  364  cd LuisInstagramPersistencia/
+  365  ls -l
+  366  git init
+  367  git clone https://github.com/3zcurdia/fakestagram-ios.git
+  368  ls -l
+  369  cd fakestagram-ios/
+  370  ls -l
+  371  git branch --all
+  372  git pull origin luis-ezcurdia
+  373  git checkout luis-ezcurdia
+  374  git branch
+  375  open fakestagram.xcodeproj/
+  376  cd/Users/patricia/Desktop/LuisInstagramPersistencia/fakestagram-ios 
+  377  cd /Users/patricia/Desktop/LuisInstagramPersistencia/fakestagram-ios 
+  378  ls
+  379  git branch
+  380  git checkout master
+  381  git pull
+  382  git checkout luis-ezcurdia
+  383  git pull
+  384  pwd
+  385  git branch
+  386  git reset --hard luis-ezcurdia
+  387  git pull origin luis-ezcurdia
+  388  open fakestagram.xcodeproj/
+  389  clear
+  390  history
+  391  history >> historialGit1
